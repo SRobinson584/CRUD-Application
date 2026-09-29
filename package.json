@@ -1,0 +1,23 @@
+{
+  "name": "crud-application",
+  "version": "1.0.0",
+  "description": "Task management application",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SRobinson584/CRUD-Application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SRobinson584/CRUD-Application/issues"
+  },
+  "homepage": "https://github.com/SRobinson584/CRUD-Application#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
